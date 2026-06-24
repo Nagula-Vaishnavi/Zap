@@ -15,7 +15,7 @@ app = Flask(__name__)
 
 # ... (Your existing code for genai configuration, functions, etc.  Paste your code here) ...
 # Configure Gemini API
-genai.configure(api_key="AIzaSyBTMexQW4idhwwn80T94PEUdqCS3E0yPJA")
+genai.configure(api_key="import.meta.env.VITE_API_KEY")
 model = genai.GenerativeModel('gemini-1.5-pro')
 
 
