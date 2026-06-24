@@ -36,13 +36,13 @@ const Index = () => {
           <div className="container max-w-screen-2xl">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
               <div className="space-y-4">
-                <h3 className="text-xl font-semibold gradient-text font-serif">Contact me</h3>
+                <h3 className="text-xl font-semibold gradient-text font-serif">CONTACT</h3>
                 <div className="space-y-2 text-muted-foreground font-sans">
                   <p className="flex items-center gap-2">
-                    <span className="font-medium text-foreground">Nagula Vamshi Goud</span>
+                    <span className="font-medium text-foreground">Nagula Vaishnavi</span>
                   </p>
                   <p className="flex items-center gap-2">
-                    Batch: AIDS (2022-2026)
+                    Batch : 2023-2027
                   </p>
                   <a 
                     href="mailto:x@gmail.com" 
